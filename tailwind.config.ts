@@ -20,6 +20,7 @@ export default {
           2: "#504946",
           3: "#665C54",
           4: "#7C6F64",
+          dark: "#1E2021",
         },
         foreground: {
           DEFAULT: "#EBDBB2",
@@ -60,7 +61,10 @@ export default {
       },
       fontFamily: {
         mono: ["Ubuntu Mono", "monospace"],
-      }
+      },
+      height: {
+        border: "1.5px",
+      },
     },
   },
 

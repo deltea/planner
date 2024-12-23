@@ -14,5 +14,6 @@
       {name}
     </span>
   {/if}
+
   {@render children()}
 </div>
