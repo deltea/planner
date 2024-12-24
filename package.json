@@ -35,6 +35,7 @@
 	"dependencies": {
 		"@tailwindcss/forms": "^0.5.9",
 		"animejs": "^3.2.2",
+		"bits-ui": "^0.22.0",
 		"clsx": "^2.1.1",
 		"drizzle-orm": "^0.33.0",
 		"iconify-icon": "^2.2.0",
