@@ -6,10 +6,11 @@ export default {
 
   theme: {
     borderWidth: {
-      DEFAULT: "1.5px"
+      DEFAULT: "1.5px",
     },
     transitionDuration: {
       default: "200ms",
+      0: "0ms",
     },
     extend: {
       colors: {
